@@ -100,6 +100,7 @@ a [class*=" icon-"] {
   width: 2.142857142857143em;
   text-align: center;
   line-height: inherit;
+  font-size: 18px;
 }
 [class^="icon-"].hide,
 [class*=" icon-"].hide {
