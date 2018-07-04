@@ -1,0 +1,123 @@
+@font-face {
+    font-family: 'birth-of-a-hero';
+    src: url('http://globalchange.media/view/fonts/birth-of-a-hero/birth_of_a_hero-webfont.eot');
+    src: url('http://globalchange.media/view/fonts/birth-of-a-hero/birth_of_a_hero-webfont.eot?#iefix') format('embedded-opentype'),
+    url('http://globalchange.media/view/fonts/birth-of-a-hero/birth_of_a_hero-webfont.woff') format('woff'),
+    url('http://globalchange.media/view/fonts/birth-of-a-hero/birth_of_a_hero-webfont.ttf') format('truetype'),
+    url('http://globalchange.media/view/fonts/birth-of-a-hero/birth_of_a_hero-webfont.svg#birth_of_a_hero') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+@font-face {
+    font-family: 'basic';
+    src: url('http://globalchange.media/view/fonts/basic/basic-webfont.eot');
+    src: url('http://globalchange.media/view/fonts/basic/basic-webfont.eot?#iefix') format('embedded-opentype'),
+    url('http://globalchange.media/view/fonts/basic/basic-webfont.woff') format('woff'),
+    url('http://globalchange.media/view/fonts/basic/basic-webfont.ttf') format('truetype'),
+    url('http://globalchange.media/view/fonts/basic/basic-webfont.svg#basic') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+
+@font-face {
+    font-family: 'maximoNormal';
+    src: url('http://globalchange.media/view/fonts/maximo/maximo.eot');
+    src: url('http://globalchange.media/view/fonts/maximo/maximo.eot?#iefix') format('embedded-opentype'),
+    url('http://globalchange.media/view/fonts/maximo/maximo.woff') format('woff'),
+    url('http://globalchange.media/view/fonts/maximo/maximo.ttf') format('truetype'),
+    url('http://globalchange.media/view/fonts/maximo/maximo.svg') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+@font-face
+{
+    font-family: 'ankehand';
+    src: url('http://globalchange.media/view/fonts/ankehand/ankehand-webfont.eot') format('embedded-opentype'),
+        url('http://globalchange.media/view/fonts/ankehand/ankehand-webfont.ttf') format('truetype'),
+        url('http://globalchange.media/view/fonts/ankehand/ankehand-webfont.svg') format('svg'),
+        url('http://globalchange.media/view/fonts/ankehand/ankehand-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'tamil_mn';
+    src: url('http://globalchange.media/view/fonts/tamilmn/tamil_mn-webfont.eot') format('embedded-opentype'),
+            url('http://globalchange.media/view/fonts/tamilmn/tamil_mn-webfont.svg') format('svg'),
+            url('http://globalchange.media/view/fonts/tamilmn/tamil_mn-webfont.ttf') format('truetype'),
+            url('http://globalchange.media/view/fonts/tamilmn/tamil_mn-webfont.woff') format('woff');
+}
+
+@font-face {
+    font-family: 'almagro';
+    src: url('http://globalchange.media/view/fonts/almagro/ALMAGRO_.eot');
+    src: local('☺'), url('http://globalchange.media/view/fonts/almagro/ALMAGRO_.woff') format('woff'),
+    url('http://globalchange.media/view/fonts/almagro/ALMAGRO_.ttf') format('truetype'),
+    url('http://globalchange.media/view/fonts/almagro/ALMAGRO_.svg') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'caeldera';
+    src: url('http://globalchange.media/view/fonts/caeldera/caeldera-webfont.eot');
+    src: url('http://globalchange.media/view/fonts/caeldera/caeldera-webfont.eot?#iefix') format('embedded-opentype'),
+    url('http://globalchange.media/view/fonts/caeldera/caeldera-webfont.woff') format('woff'),
+    url('http://globalchange.media/view/fonts/caeldera/caeldera-webfont.ttf') format('truetype'),
+    url('http://globalchange.media/view/fonts/caeldera/caeldera-webfont.svg#basic') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+@font-face {
+    font-family: 'kabeln';
+    src: url('http://globalchange.media/view/fonts/kabeln/kabeln-webfont.eot');
+    src: url('http://globalchange.media/view/fonts/kabeln/kabeln-webfont.eot?#iefix') format('embedded-opentype'),
+    url('http://globalchange.media/view/fonts/kabeln/kabeln-webfont.woff') format('woff'),
+    url('http://globalchange.media/view/fonts/kabeln/kabeln-webfont.ttf') format('truetype'),
+    url('http://globalchange.media/view/fonts/kabeln/kabeln-webfont.svg#kabeln') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+@font-face {
+    font-family: 'dauphin';
+    src: url('http://globalchange.media/view/fonts/dauphin/dauphinn-webfont.eot');
+    src: url('http://globalchange.media/view/fonts/dauphin/dauphinn-webfont.eot?#iefix') format('embedded-opentype'),
+    url('http://globalchange.media/view/fonts/dauphin/dauphinn-webfont.woff') format('woff'),
+    url('http://globalchange.media/view/fonts/dauphin/dauphinn-webfont.ttf') format('truetype'),
+    url('http://globalchange.media/view/fonts/dauphin/dauphinn-webfont.svg#dauphinregular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+h2.caeldera
+{
+    font-size: 25px;
+    font-weight: normal;
+    color: #4273B8;
+}
+
+.caeldera
+{
+    text-align: center;
+}
+
+p{
+    font-size: 18px;
+    font-weight: 700;
+}
+
+h3
+{
+    color: #3670a1;
+}

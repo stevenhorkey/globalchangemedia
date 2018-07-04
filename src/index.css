@@ -1,0 +1,28 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-family: sans-serif;
+}
+.motto{
+  color:#FFFFFF;
+  display:block;
+  font-size:22px;
+  letter-spacing:1px;
+  margin:0 auto;
+  text-align:center;
+  text-rendering:optimizelegibility;
+  font-style:italic;
+  margin-bottom:30px;
+}
+nav>a{
+  text-transform: uppercase;
+}
+w-100{
+  width: 100% !important;
+}
+#loader-wrapper{
+  /* display: none; */
+}
+#buffer-extension-hover-button{
+  display: none; position: absolute; z-index: 8675309; width: 100px; height: 25px; background-image: url(&quot;chrome-extension://noojglkidnpfjbincgijbaiedldjfbhh/data/shared/img/buffer-hover-icon@2x.png&quot;); background-size: 100px 25px; opacity: 0.9; cursor: pointer; top: 267.172px; left: 939px;
+}
